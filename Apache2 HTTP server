@@ -1,0 +1,8 @@
+# README.md
+$ apt update
+$ apt upgrade 
+$ apt install Apache2
+$ mv read.txt /data/data/com.termux/files/usr/share/apache2/default-site/htdocs/ 
+$ apachetl
+localhost 8080
+localhost:8080/read.txt
