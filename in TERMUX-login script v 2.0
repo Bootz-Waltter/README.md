@@ -1,0 +1,5 @@
+$ apt update 
+$ apt install git -y
+$ pkg install git clone https://github.com/Bootz-waltter/TERMUX-login.git
+$ cd TERMUX-login
+$ chmod +x *
